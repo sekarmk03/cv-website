@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 $xml = simplexml_load_file("data/data_cv.xml");
 ?>
@@ -145,3 +146,12 @@ $xml = simplexml_load_file("data/data_cv.xml");
 </body>
 
 </html>
+=======
+<?php
+
+	echo "<b><h3>Halo Semuanya!</b></h3>";
+	echo "<b>Perkenalkan, saya</b></br>";
+	echo "NIM	: 2003688</br>";
+	echo "Nama	: Rahma Maulida";
+?>
+>>>>>>> e5ec8aa8accc536b26229e92bf9571b05b992824
