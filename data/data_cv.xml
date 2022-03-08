@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <member_list>
+        <member id="1">
+            <photo>assets/img/profil.jpg</photo>
+            <name>Sekar Madu Kusumawardani</name>
+            <birth_place>Banjarnegara</birth_place>
+            <date_of_birth>July 3rd 2002</date_of_birth>
+            <age>18</age>
+            <address>Puri Kosambi II CS/18, Duren, Klari, Karawang, West Java 41371</address>
+            <profession in="Universitas Pendidikan Indonesia" section="Computer Science">Undergraduate Student</profession>
+            <schools>
+                <school type="elementary" grade="2.8 / 3" period="2008 - 2014">SDN Cakung Barat 15 Pagi</school>
+                <school type="junior-hs" grade="3.0 / 4" period="2014 - 2017">SMPN 1 Klari</school>
+                <school type="senior-hs" grade="9.6 / 10" period="2017 - 2020">SMKN 1 Karawang</school>
+                <school type="university" grade="3.9 / 4" period="2020 - Now">Universitas Pendidikan Indonesia</school>
+            </schools>
+            <courses>
+                <course>Junior Web Developer BPPTIK Kominfo 2021</course>
+                <course>Cloud Practitioner Essentials Dicoding Academy</course>
+                <course>Javascript Fundamental Dicoding Academy</course>
+                <course>Web Development Learning Path Progate Academy</course>
+            </courses>
+            <organizations>
+                <organization period="2016 - 2017" position="leader">Youth Redcross SMPN 1 Klari</organization>
+                <organization period="2017 - 2020" position="secretary">Youth Redcross SMKN 1 Karawang</organization>
+                <organization period="2017 - 2020" position="staff">Student Council SMKN 1 Karawang</organization>
+                <organization period="2021 - 2022" position="staff">Student Union UPI</organization>
+            </organizations>
+            <achievements>
+                <achievement>Junior Web Developer SKKNI-based ICT Certification</achievement>
+                <achievement>3rd Place Best Poster in 2nd ASEAN Symposium (ASSEEE) 2021</achievement>
+                <achievement>Presenter in 2nd ASEAN Symposium (ASSEEE) 2021</achievement>
+                <achievement>3rd Place Short Movie Competition in Pekan IT Unsika 2019</achievement>
+                <!-- <achievement>3rd Place Emergency Stretcher Competition for Youth Redcross 2017</achievement> -->
+            </achievements>
+            <languages>
+                <language>TOEIC Certification</language>
+            </languages>
+            <papers>
+                <paper>Design of Rice Husks Gasification Stove</paper>
+                <paper>Use of Cloud Storage Among Students</paper>
+            </papers>
+            <skills>
+                <skill percentage="60">Graphic Design</skill>
+                <skill percentage="60">Administration and Management</skill>
+                <skill percentage="60">Web Development</skill>
+            </skills>
+            <programming>
+                <lang>C</lang>
+                <lang>C++</lang>
+                <lang>Java</lang>
+                <lang>Python</lang>
+                <lang>PHP</lang>
+                <lang>Javascript</lang>
+                <lang>Node JS</lang>
+                <lang>HTML</lang>
+                <lang>CSS</lang>
+                <lang>SQL</lang>
+            </programming>
+            <hobbies>
+                <hobby>Cycling</hobby>
+                <hobby>Coding</hobby>
+                <hobby>Sleeping</hobby>
+            </hobbies>
+            <phone_number url="">089691798633</phone_number>
+            <email url="">sekarmadu99@gmail.com</email>
+            <instagram_account url="">@sekarmk03</instagram_account>
+            <linkedin url="">sekar madu</linkedin>
+            <facebook url="">Sekar Madu Kusumawardani</facebook>
+            <twitter url=""></twitter>
+            <line url="">@misoranaomi99</line>
+            <discord url="">sekar mk</discord>
+        </member>
+    </member_list>

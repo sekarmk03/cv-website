@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url("../img/bg.png");
+  background-size: cover;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+hr {
+  background: white;
+}
+
+.clear {
+  clear: both;
+}
+
+#profile {
+  color: white;
+}
+
+#profile a i {
+  color: white;
+  padding-right: 5px;
+}
+
+.img {
+  position: relative;
+  overflow: hidden;
+}
+
+.img,
+.profile-img {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+#name {
+  font-size: 23px !important;
+  line-height: 20px !important;
+}
+
+.about,
+.card > ul > li {
+  padding: 0 0 0 15px;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.about {
+  font-size: 20px !important;
+  padding: 0 !important;
+}
+
+#name,
+#about > p {
+  font-weight: bolder;
+  font-family: "Open Sans", sans-serif;
+}
+
+#email,
+#phone {
+  font-size: 15px !important;
+  font-weight: bold !important;
+  font-family: "Cutive Mono", monospace;
+}
+
+#college,
+#email,
+#phone,
+#year-graduation {
+  color: wheat;
+  font-size: 13.5px;
+}
+
+#programming,
+#hobbies,
+#telephone,
+#fax {
+  color: #4e2a3e;
+  font-size: 13.5px;
+}
+
+strong,
+span {
+  color: white;
+  font-size: 16px;
+}
+
+.social-links,
+.about {
+  display: inline-block;
+}
+
+.social-links {
+  margin-bottom: 12px;
+}
+
+.social-links a {
+  margin: 0 7px;
+}
+
+.card {
+  background-color: rgba(233, 246, 252, 0.815);
+}
+
+.card-body > p {
+  color: #0e141e;
+  font-weight: bolder;
+  font-size: 18px;
+  line-height: 2;
+}
+
+.card-body > li > i {
+  font-size: 18px;
+}
+
+.tags {
+  font-size: 17px;
+  font-weight: bolder;
+}
+
+.tags span {
+  font-size: 14px;
+  font-weight: normal;
+  color: #0e141e;
+}
+
+.tags span span {
+  color: #738f93;
+}
+
+@media screen and (max-width: 1090px) {
+  .profile {
+    margin-left: 5%;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .container {
+    display: block;
+  }
+  .profile {
+    width: 90%;
+  }
+  .card {
+    margin: 0 5%;
+    margin-bottom: 30px;
+  }
+}
